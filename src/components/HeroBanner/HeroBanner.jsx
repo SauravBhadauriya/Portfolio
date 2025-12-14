@@ -60,7 +60,7 @@ function HeroBanner() {
         <div className='flex justify-center items-center order-1 md:order-2 mb-8 md:mb-0 md:mr-14'> {/* Larger gap desktop */}
           <img
             className='rounded-full border-sky-800 border-4 h-40 w-40 md:h-72 md:w-72 object-cover'
-            src="../../src/assets/Saurav_Singh.jpg"
+            src="../../src/assets/Saurav_Singh.JPG"
             alt="Saurav Singh"
           />
         </div>
